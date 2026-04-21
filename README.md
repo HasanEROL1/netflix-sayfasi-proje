@@ -21,5 +21,7 @@ Kullanılan Teknolojiler
 ##
 
 EKRAN
+
+
  ![tanıtım](netflix-clone.gif)
 
