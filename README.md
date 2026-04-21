@@ -21,6 +21,5 @@ Kullanılan Teknolojiler
 ##
 
 EKRAN
-
-https://github.com/user-attachments/assets/e69788d3-07f2-49ab-b530-2c32fd7d06a1
+(netflix-clone.gif)
 
