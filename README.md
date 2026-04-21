@@ -11,12 +11,11 @@ Bu, HTML ve CSS kullanılarak inşa edilmiş bir Netflix klon projesidir. Bu pro
 
 -Geliştirilmiş kullanıcı arayüzü deneyimi için yerleştirilmiş videolar.
 
-##
- Kullanılan Teknolojiler
+## 🛠️ KULLANILAN TEKNOLOJİLER
 
--HTML5: İçeriği yapılandırma.
+-**HTML5**: İçeriği yapılandırma.
 
--CSS3: Stil verme ve responsive tasarım.
+-**CSS3**: Stil verme ve responsive tasarım.
 
 
 EKRAN
